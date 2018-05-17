@@ -1,6 +1,7 @@
 .bg-1{
 	background-color: green;
 	color:#ffffff;
+
 }
 
 .navbar {
@@ -10,3 +11,20 @@
 }
 
 .navbar li { color: #000 } 
+
+#black{
+	color:black;
+}
+
+.go-right{
+	float: right;
+}
+
+a {
+    text-decoration: underline;
+}
+
+#white{
+	color:white;
+	float: right;
+}
