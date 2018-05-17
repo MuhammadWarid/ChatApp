@@ -47,3 +47,21 @@ a {
     height: 25px;
     margin-left: 150px;
 }
+.wrapper {
+    border:1px;
+    display:inline-block;
+}
+
+a:link, a:visited {
+    background-color: #green;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+a:hover, a:active {
+    background-color: darkgreen;
+}
