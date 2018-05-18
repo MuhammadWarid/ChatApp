@@ -27,7 +27,16 @@ a {
 #white{
 	color:white;
 	float: right;
+  
 }
+
+#white1{
+  color:white;
+  float: right;
+  margin-top: 23px;
+  
+}
+
 
 .center {
     position: fixed;
@@ -60,6 +69,7 @@ a {
     position: relative;
     margin-right: 140px;
     height: 42px;
+
 }
 
 
