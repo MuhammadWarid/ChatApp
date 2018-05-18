@@ -67,4 +67,12 @@ a {
     background-color: green;
 }
 
+.footer{
+  bottom: 0;
+  position: fixed;
+  left: 25px;
+}
 
+.cl{
+  text-decoration: none;
+}
